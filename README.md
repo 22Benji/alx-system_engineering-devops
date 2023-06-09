@@ -1,1 +1,1 @@
-My shell readme
+i am working now
